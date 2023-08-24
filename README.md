@@ -1,2 +1,2 @@
 # myResume
-This is my CV, hope you enjoy it! 
+This is my responsive and super cute professional resume, hope you enjoy it! 
